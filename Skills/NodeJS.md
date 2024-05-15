@@ -2,11 +2,11 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Stateful and stateless servers: 🖐 used
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,16 +17,16 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 👂 heard
+  - Files `package.json`, `package-lock.json`: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Dependency injection: 🚀 constructed
+  - DI containers: 🚀 constructed
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments
+  - Command line arguments: 🖐 used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -39,12 +39,12 @@
   - Password hashing with crypto.scrypt
   - Web Crypto API
   - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - Copy folder recursively: 🚀 constructed
+  - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -67,67 +67,67 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
+  - SSE: 🎓 known
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
+  - Long polling: 🚀 constructed
+  - REST: 🚀 constructed
+  - RPC 🎓 known
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS 🎓 known
+  - DDoS 🎓 known
+  - XSS: 🎓 known
   - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - CSRF: 🎓 known
+  - DNS: 🎓 known
+  - SQL injection: 🎓 known
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
+  - Logging: 🖐 used
+  - Application configuring: 🖐 used
+  - Testing: 🖐 used
+  - CI/CD: 🖐 used
   - Readable
   - Writable
   - Transform
-  - Back pressure
+  - Back pressure: 🖐 used
   - Buffer
   - Console
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer: 🖐 used
+  - Repository: 🖐 used
+  - Active record: 🎓 known
+  - Query builder: 🚀 constructed
+  - Object-Relational Mapping: 🖐 used
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `Error`: 🖐 used
+  - `error.cause`: 🖐 used
+  - `error.code`: 🖐 used
+  - `error.message`: 🖐 used
+  - `error.stack`: 🖐 used
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions: 🖐 used
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - Native addons: 👂 heard
+  - `C` and `C++` addons: 👂 heard
+  - `Rust` addons: 👂 heard
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory: 🎓 known
   - V8 binary serialization

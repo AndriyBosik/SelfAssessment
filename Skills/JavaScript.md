@@ -10,41 +10,41 @@
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `undefined`: 🖐 used
+  - `null`: 🖐 used
+  - `this`: 🖐 used
+  - `instanceof`: 🖐 used
+  - `...spread`: 🖐 used
+  - `...rest`: 🖐 used
+  - `typeof`: 🖐 used
+  - Destructuring: 🖐 used
+  - Generators: 🖐 used
+  - Iterators: 🖐 used
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining: 🖐 used
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
-  - Getters and setters
+  - `window`: 🖐 used
+  - Getters and setters: 🖐 used
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators: 🖐 used
+  - Logical operators: 🖐 used
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Bitwise operators: 🖐 used
+  - Ternary operator: 🖐 used
   - `void`
-  - `yield`
-  - `await`
+  - `yield`: 👂 heard
+  - `await`: 🖐 used
   - Template literal
-  - Strict mode
+  - Strict mode: 👂 heard
   - Hoisting
   - `delete`
-  - `in`
+  - `in`: 🖐 used
   - `super`
   - `eval`
   - `static`
@@ -59,49 +59,49 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
+  - `if`: 🖐 used
+  - `while`: 🖐 used
+  - `do..while`: 🖐 used
+  - `for`: 🖐 used
+  - `for..in`: 🖐 used
+  - `for..of`: 🖐 used
+  - `for await`: 🖐 used
+  - `throw`: 🖐 used
+  - `break`: 🖐 used
+  - `continue`: 🖐 used
+  - `import`: 🖐 used
+  - `export`: 🖐 used
+  - `label`: 🖐 used
+  - `try..catch`: 🖐 used
+  - `switch`: 🖐 used
   - `class`
   - `extends`
-  - `with`
+  - `with`: 🖐 used
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+  - Arrow function: 🖐 used
+  - Async function: 🖐 used
+  - Function declaration: 🖐 used
+  - Function expression: 🖐 used
   - Default parameters
-  - Functional object
+  - Functional object: 🎓 known
   - `Function.prototype.call`
-  - `Function.prototype.bind`
+  - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 🖐 used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🖐 used
+  - `Map`: 🖐 used
+  - `Set`: 🖐 used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🖐 used
+  - `Date`: 🖐 used
   - `Math`
   - `Reflect`
   - `Error`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🖐 used
+  - npm: 🖐 used
+  - prettier: 👂 heard
   - MDN
   - TC39

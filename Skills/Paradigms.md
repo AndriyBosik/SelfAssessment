@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Imperative programming: 🖐 used
+  - Structured programming: 🖐 used
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐 used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐 used
   - Object-based programming
   - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
+  - Concurrent computing: 🖐 used
+  - Asynchronous programming: 🖐 used
   - Parallel programming
-  - Reactive programming
+  - Reactive programming: 🖐 used
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🖐 used
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor: 🖐 used
+  - Operator `new`: 🖐 used
+  - Static method: 🖐 used
+  - Method: 🖐 used
+  - Async method: 🖐 used
+  - Getters, Setters: 🖐 used
+  - Public fields: 🖐 used
+  - Private fields: 🖐 used
+  - Field declarations: 🖐 used
+  - Inheritance: 🖐 used
+  - Parent class: 🖐 used
+  - Polymorphism: 🖐 used
+  - Abstract class: 🖐 used
+  - Interface: 🖐 used
+  - Encapsulation: 🖐 used
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 🖐 used
   - Introspection
-  - Reflection
+  - Reflection: 🖐 used
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton: 🚀 constructed
+  - Factory Method: 🚀 constructed
+  - Abstract Factory: 🚀 constructed
+  - Adapter: 🎓 known
+  - Observer: 🚀 constructed
+  - Strategy: 🚀 constructed
+  - Facade: 🎓 known
+  - Proxy: 🚀 constructed
+  - Chain of Responsibility: 🚀 constructed
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🚀 constructed
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🚀 constructed
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🚀 constructed
   - Reactor
   - Active object
   - Delegation

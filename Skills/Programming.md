@@ -4,11 +4,11 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm: 🖐 used
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm: 🖐 used
   - Programm
   - Programming paradigm
   - Programming language
@@ -24,7 +24,7 @@
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition: 🖐 used
   - Control flow
   - Data flow
   - Code reuse
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐 used
+  - Identifier: 🖐 used
+  - Variable: 🖐 used
+  - Constant: 🖐 used
+  - Scalar: 🖐 used
+  - Literal: 🖐 used
+  - Expression: 🖐 used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Function: 🖐 used
+  - Procedure: 🖐 used
+  - Method: 🖐 used
+  - Class: 🖐 used
   - Prototype
-  - Event
-  - Type
+  - Event: 🖐 used
+  - Type: 🖐 used
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Code block: 🖐 used
+  - Conditions: 🖐 used
+  - Loops: 🖐 used
+  - Assignment: 🖐 used
+  - Regular expression: 🖐 used
+  - Interface: 🖐 used
   - Namespaces
-  - Call stack
+  - Call stack: 🖐 used
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early: 🖐 used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 🖐 used
+  - Reference types: 🖐 used
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,52 +82,52 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Argument: 🖐 used
+  - Parameter: 🖐 used
+  - Pure function: 🖐 used
+  - Lambda expression: 🖐 used
+  - Side effects: 🖐 used
+  - Closure: 🖐 used
+  - Partial application: 🖐 used
+  - Currying: 🖐 used
+  - Higher order: 🖐 used
+  - Recursion: 🖐 used
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback: 🖐 used
+  - Listener: 🖐 used
+  - Composition: 🖐 used
+  - Pipe: 🖐 used
   - Memoize
   - Wrapper
-  - Functor
-  - Monad
-  - Monoid
+  - Functor: 🖐 used
+  - Monad: 🖐 used
+  - Monoid: 🖐 used
   - Generator
-  - Coroutine
+  - Coroutine: 🖐 used
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Array: 🖐 used
+  - Structure: 🖐 used
+  - Record: 🖐 used
+  - Enum: 🖐 used
+  - Instance: 🖐 used
+  - Object: 🖐 used
+  - Collection: 🖐 used
+  - Set: 🖐 used
+  - Hash table: 🚀 constructed
+  - Linked list: 🚀 constructed
+  - Doubly list: 🚀 constructed
   - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
+  - Circular list: 🚀 constructed
+  - Queue: 🚀 constructed
+  - Stack: 🚀 constructed
+  - Deque: 🎓 known
+  - Tree: 🚀 constructed
+  - Graph: 🚀 constructed
+  - Iterator: 🖐 used
+  - Mutable state: 🖐 used
+  - Immutable state: 🖐 used
+  - Serialization: 🖐 used
+  - String parsing: 🖐 used
   - JSON
   - JSON5
   - YAML
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐 used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: 🖐 used
   - Polyfill
   - Interpreter
   - Linker
@@ -157,33 +157,33 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐 used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Garbage collection: 🎓 known
+  - Refactoring: 🖐 used
+  - Code review: 🖐 used
+  - Exception: 🖐 used
   - Unittesting
-  - git
-  - Github
+  - git: 🖐 used
+  - Github: 🖐 used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity: 🎓 known
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
