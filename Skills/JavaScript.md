@@ -1,15 +1,15 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
+  - `Object`: 🖐 used
+  - `Function`: 🖐 used
+  - `Boolean`: 🖐 used
+  - `Number`: 🖐 used
+  - `BigInt`: 🖐 used
+  - `String`: 🖐 used
+  - `Symbol`: 🖐 used
+  - `Infinity`: 🖐 used
+  - `NaN`: 🖐 used
   - `undefined`: 🖐 used
   - `null`: 🖐 used
   - `this`: 🖐 used
@@ -34,30 +34,30 @@
   - `prototype`
   - Equality operators: 🖐 used
   - Logical operators: 🖐 used
-  - Logical Assignment
+  - Logical Assignment: 🎓 known
   - Bitwise operators: 🖐 used
   - Ternary operator: 🖐 used
-  - `void`
+  - `void`: 🖐 used
   - `yield`: 👂 heard
   - `await`: 🖐 used
   - Template literal
   - Strict mode: 👂 heard
   - Hoisting
-  - `delete`
+  - `delete`: 🖐 used
   - `in`: 🖐 used
-  - `super`
+  - `super`: 🖐 used
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`: 🖐 used
+  - `Number.parseInt`: 🖐 used
+  - `Number.parseFloat`: 🖐 used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields: 🖐 used
+  - Static class fields: 🖐 used
+  - Private class fields: 🖐 used
+  - Private class methods: 🖐 used
 - Statements
   - `if`: 🖐 used
   - `while`: 🖐 used
@@ -74,16 +74,16 @@
   - `label`: 🖐 used
   - `try..catch`: 🖐 used
   - `switch`: 🖐 used
-  - `class`
-  - `extends`
+  - `class`: 🖐 used
+  - `extends`: 🖐 used
   - `with`: 🖐 used
-  - `new`
+  - `new`: 🖐 used
 - Functions
   - Arrow function: 🖐 used
   - Async function: 🖐 used
   - Function declaration: 🖐 used
   - Function expression: 🖐 used
-  - Default parameters
+  - Default parameters: 🖐 used
   - Functional object: 🎓 known
   - `Function.prototype.call`
   - `Function.prototype.bind`: 🎓 known
@@ -102,16 +102,16 @@
   - `Proxy`: 🎓 known
   - `RegExp`: 🖐 used
   - `Date`: 🖐 used
-  - `Math`
+  - `Math`: 🖐 used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐 used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐 used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise`: 🖐 us: 🖐 useded
+  - `console`: 🖐 used
   - Timers
 - Infrastructure
   - V8

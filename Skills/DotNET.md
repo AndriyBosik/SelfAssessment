@@ -1,11 +1,11 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 👂 heard
+  - Asynchronous and synchronous programming: 🖐 used
+  - Task-based asynchronous pattern: 🖐 used
+  - Garbage collection in .NET: 🎓 known
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
@@ -13,23 +13,23 @@
   - .NET assemblies
   - NuGet package management
   - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
+  - Dependency Injection in .NET: 🖐 used
+  - Inversion of Control (IoC): 🖐 used
+  - IoC containers in .NET: 🖐 used
   - Middleware and pipeline configuration
-  - Modular applications
+  - Modular applications: 🖐 used
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration
+  - Environment variables and configuration: 🖐 used
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 🖐 used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -37,8 +37,8 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
@@ -53,15 +53,15 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 🖐 used
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Data modeling and migration: 🖐 used
+  - Repository and Unit of Work patterns: 🖐 used
+  - CRUD operations: 🖐 used
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
+  - Exception handling in .NET: 🖐 used
+  - Custom error classes: 🖐 used
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -72,18 +72,18 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
   - Microservices architecture
   - Containerization with Docker
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
+  - C# syntax and language fundamentals: 🖐 used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐 used
+  - Reflection and dynamic programming: 🖐 used
+  - Data types and collections: 🖐 used
+  - Generics and extension methods: 🖐 used
+  - Attributes and annotations: 🖐 used
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals

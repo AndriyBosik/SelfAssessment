@@ -27,7 +27,7 @@
   - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐 used
-  - Node.js CLI
+  - Node.js CLI: 🖐 used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively: 🚀 constructed
-  - Worker threads: 👂 heard
+  - Worker threads: 🎓 known
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -60,10 +60,10 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
@@ -104,11 +104,11 @@
 - Data access
   - Data access layer: 🖐 used
   - Repository: 🖐 used
-  - Active record: 🎓 known
+  - Active record: 🖐 used
   - Query builder: 🚀 constructed
   - Object-Relational Mapping: 🖐 used
-  - CRUD
-  - DTO
+  - CRUD: 🖐 used
+  - DTO: 🖐 used
 - Error handling and debugging
   - `Error`: 🖐 used
   - `error.cause`: 🖐 used

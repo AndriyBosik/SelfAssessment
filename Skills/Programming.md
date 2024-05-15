@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model: 🎓 known
   - Modeling
   - Subject domain
   - Algorithm: 🖐 used
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax: 🎓 known
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
   - Paradigm: 🖐 used
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
+  - Contract: 🎓 known
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 🎓 known
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
-  - Machine code
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering: 🎓 known
   - Decomposition: 🖐 used
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🖐 used
   - Identifier: 🖐 used
@@ -39,7 +39,7 @@
   - Scalar: 🖐 used
   - Literal: 🖐 used
   - Expression: 🖐 used
-  - Heap
+  - Heap: 🖐 used
   - Function: 🖐 used
   - Procedure: 🖐 used
   - Method: 🖐 used
@@ -47,7 +47,7 @@
   - Prototype
   - Event: 🖐 used
   - Type: 🖐 used
-  - Flag
+  - Flag: 🖐 used
   - Lexical scope
   - Code block: 🖐 used
   - Conditions: 🖐 used
@@ -55,33 +55,33 @@
   - Assignment: 🖐 used
   - Regular expression: 🖐 used
   - Interface: 🖐 used
-  - Namespaces
+  - Namespaces: 🖐 used
   - Call stack: 🖐 used
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Naming conventions: 🖐 used
+  - Coding conventions: 🖐 used
+  - Camel case: 🖐 used
+  - Snake case: 🖐 used
+  - Kebab case: 🖐 used
+  - Trailing commas: 🎓 known
   - Return early: 🖐 used
-  - Fail-fast
+  - Fail-fast: 🖐 used
 - Types
   - Primitive types: 🖐 used
   - Reference types: 🖐 used
-  - Type systems
+  - Type systems: 🎓 known
   - Strong typing
   - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Duck typing: 🖐 used
+  - Static typing: 🖐 used
+  - Dynamic typing: 🖐 used
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Type inference: 🎓 known
+  - Covariance: 🖐 used
+  - Contravariance: 🖐 used
 - Functions
-  - Signature
+  - Signature: 🎓 known
   - Argument: 🖐 used
   - Parameter: 🖐 used
   - Pure function: 🖐 used
@@ -92,17 +92,17 @@
   - Currying: 🖐 used
   - Higher order: 🖐 used
   - Recursion: 🖐 used
-  - Tail call optimisation
+  - Tail call optimisation: 🖐 used
   - Callback: 🖐 used
   - Listener: 🖐 used
   - Composition: 🖐 used
   - Pipe: 🖐 used
-  - Memoize
-  - Wrapper
+  - Memoize: 🖐 used
+  - Wrapper: 🖐 used
   - Functor: 🖐 used
   - Monad: 🖐 used
   - Monoid: 🖐 used
-  - Generator
+  - Generator: 🖐 used
   - Coroutine: 🖐 used
 - Data structures
   - Array: 🖐 used
@@ -128,23 +128,23 @@
   - Immutable state: 🖐 used
   - Serialization: 🖐 used
   - String parsing: 🖐 used
-  - JSON
-  - JSON5
-  - YAML
+  - JSON: 🖐 used
+  - JSON5: 🎓 known
+  - YAML: 🖐 used
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - DNS: 🎓 known
+  - CDN: 🎓 known
+  - CORS: 🎓 known
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
   - Compiler: 🖐 used
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler
   - Linter: 🖐 used
   - Polyfill
@@ -153,87 +153,87 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization: 🎓 known
   - Debugger: 🖐 used
   - Tracing
   - Garbage collection: 🎓 known
   - Refactoring: 🖐 used
   - Code review: 🖐 used
   - Exception: 🖐 used
-  - Unittesting
+  - Unittesting: 🖐 used
   - git: 🖐 used
   - Github: 🖐 used
-  - Docker
-  - Kubernetes
+  - Docker: 🖐 used
+  - Kubernetes: 🖐 used
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
   - Hard code: 🎓 known
-  - Soft code
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity: 🎓 known
   - Action at a distance
   - Spaghetti: 🎓 known
-  - Silver bullet
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code
+  - Dead code: 🎓 known
   - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Micro-optimization: 🎓 known
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
+  - Pass-through parameters: 🎓 known
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use switch/case: 🎓 known
+  - Temporary field: 🎓 known
+  - Handle object as instances and hashes at the same time: 🎓 known
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: 🎓 known
   - V8
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
+  - Interrupts: 🎓 known
+  - Drivers: 🎓 known
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory: 🎓 known
+  - File system: 🖐 used
+  - Linux: 🖐 used
+  - Unix: 🎓 known
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS: 🖐 used
+  - Windows: 🖐 used
+  - Real-time OS: 🎓 known
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII: 🎓 known
+  - Escape sequence: 🎓 known
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64: 🎓 known
   - ECMA
   - ICANN
-  - ISO
-  - MIME
+  - ISO: 🎓 known
+  - MIME: 🎓 known
   - OWASP
-  - UTF-8
+  - UTF-8: 🎓 known
   - W3C
   - ODMG

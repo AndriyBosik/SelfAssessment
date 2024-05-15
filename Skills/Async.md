@@ -2,12 +2,12 @@
 
 - Theory
   - Event loop: 🎓 known
-  - `try..catch`
+  - `try..catch`: 🖐 used
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
-  - Thread pool: 🎓 known
-  - Pattern Reactor: 🎓 known
-  - CAS operations
+  - Thread pool: 🖐 used
+  - Pattern Reactor: 🖐 used
+  - CAS operations: 🎓 known
   - epoll: 🎓 known
   - kqueue: 🎓 known
   - Completion ports
@@ -17,7 +17,7 @@
   - Dead locks: 🎓 known
   - Live locks: 👂 heard
   - Concurrent programming: 🖐 used
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🖐 used
   - Actor Model
   - Thread: 🖐 used
   - Process: 🖐 used
@@ -29,17 +29,17 @@
   - Async/await: 🖐 used
   - Future: 🖐 used
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🖐 used
   - Coroutine: 🖐 used
-  - Goroutine: 👂 heard
+  - Goroutine: 🖐 used
   - Signal: 👂 heard
   - Stream: 🎓 known
   - Chain of responsibility: 🖐 used
-  - Middleware: 👂 heard
-  - Locks: 🎓 known
+  - Middleware: 🖐 used
+  - Locks: 🖐 used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -53,13 +53,13 @@
   - Writable: 👂 heard
   - Transform
   - Async Pool 
-  - Async Queue
+  - Async Queue: 🎓 known
   - Async Collector
-  - Semaphore: 🎓 known
-  - Mutex: 🎓 known
+  - Semaphore: 🖐 used
+  - Mutex: 🖐 used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐 used
   - `setImmediate`: 👂 heard
   - `nextTick`: 👂 heard
   - AbortController
@@ -82,7 +82,7 @@
   - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
-  - Promise.any 
+  - Promise.any: 👂 heard
   - Web Locks API 
   - IPC
   - Channel API
