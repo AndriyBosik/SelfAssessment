@@ -1,67 +1,67 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Modularity: 🖐: 🖐️ used
+  - Components: 🖐: 🖐️ used
+  - Directories: 🖐: 🖐️ used
+  - GRASP: 🖐: 🖐️ used
+  - SOLID: 🖐: 🖐️ used
+  - GoF patterns: 🖐: 🖐️ used
+  - CQS: 🎓 known
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🖐: 🖐️ used
+  - Contract programming: 🖐: 🖐️ used
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: 🖐: 🖐️ used
+  - Domain-specific language (DSL): 🖐: 🖐️ used
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Multilayer approach: 🖐: 🖐️ used
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐: 🖐️ used
+  - Dependency injection (DI): 🖐: 🖐️ used
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 🎓 known
+  - Pub/sub: 🚀 constructed
+  - Message brocker: 🖐: 🖐️ used
   - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Service locator: 🖐: 🖐️ used
+  - Message Queue (MQ): 🖐: 🖐️ used
+  - CQRS: 🎓 known
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🖐: 🖐️ used
+  - Entity-relationship diagram: 🖐: 🖐️ used
   - IDEF1X
-  - UML
+  - UML: 🖐: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation: 🎓 known
+  - Distributed systems: 🚀 constructed
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - Load balancing: 🖐: 🖐️ used
+  - Gateways: 🖐: 🖐️ used
+  - On-premises: 🎓 known
+  - IaaS: 🖐: 🖐️ used
+  - PaaS: 🖐: 🖐️ used
+  - SaaS: 🖐: 🖐️ used
+  - FaaS clouds: 🖐: 🖐️ used
+  - Serverless: 🖐: 🖐️ used
+  - Vendor lock-in: 🎓 known
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS): 🎓 known
   - Solution visions
   - Solution capabilities
   - System design
@@ -69,16 +69,16 @@
   - Data modelling
   - Solution components
   - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 🖐: 🖐️ used
+  - BPMN: 🖐: 🖐️ used
+  - Low-code: 🖐: 🖐️ used
+  - No-code: 🖐: 🖐️ used
   - Metric
   - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🚀 constructed
+  - Process choreography: 🚀 constructed
+  - Service orchestration: 🚀 constructed
+  - Data warehouse: 🖐: 🖐️ used
   - Business Intelligence
-  - OLAP
-  - OLTP
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 🎓 known
   - Engineering Hygiene

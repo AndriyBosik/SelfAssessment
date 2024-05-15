@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers: 🖐 used
+  - Stateful and stateless servers: 🖐: 🖐️ used
   - Nonblocking I/O and blocking code: 🎓 known
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
@@ -26,8 +26,8 @@
   - Coupling and cohesion: 🎓 known
   - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments: 🖐 used
-  - Node.js CLI
+  - Command line arguments: 🖐: 🖐️ used
+  - Node.js CLI: 🖐: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively: 🚀 constructed
-  - Worker threads: 👂 heard
+  - Worker threads: 🎓 known
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -60,10 +60,10 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
@@ -76,10 +76,10 @@
   - HTTP/3 (QUIC)
   - Long polling: 🚀 constructed
   - REST: 🚀 constructed
-  - RPC 🎓 known
+  - RPC: 🎓 known
   - Routing
-  - DoS 🎓 known
-  - DDoS 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS: 🎓 known
   - Path traversal
   - CSRF: 🎓 known
@@ -90,34 +90,34 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging: 🖐 used
-  - Application configuring: 🖐 used
-  - Testing: 🖐 used
-  - CI/CD: 🖐 used
+  - Logging: 🖐: 🖐️ used
+  - Application configuring: 🖐: 🖐️ used
+  - Testing: 🖐: 🖐️ used
+  - CI/CD: 🖐: 🖐️ used
   - Readable
   - Writable
   - Transform
-  - Back pressure: 🖐 used
+  - Back pressure: 🖐: 🖐️ used
   - Buffer
   - Console
   - Inspector
 - Data access
-  - Data access layer: 🖐 used
-  - Repository: 🖐 used
-  - Active record: 🎓 known
+  - Data access layer: 🖐: 🖐️ used
+  - Repository: 🖐: 🖐️ used
+  - Active record: 🖐: 🖐️ used
   - Query builder: 🚀 constructed
-  - Object-Relational Mapping: 🖐 used
-  - CRUD
-  - DTO
+  - Object-Relational Mapping: 🖐: 🖐️ used
+  - CRUD: 🖐: 🖐️ used
+  - DTO: 🖐: 🖐️ used
 - Error handling and debugging
-  - `Error`: 🖐 used
-  - `error.cause`: 🖐 used
-  - `error.code`: 🖐 used
-  - `error.message`: 🖐 used
-  - `error.stack`: 🖐 used
+  - `Error`: 🖐: 🖐️ used
+  - `error.cause`: 🖐: 🖐️ used
+  - `error.code`: 🖐: 🖐️ used
+  - `error.message`: 🖐: 🖐️ used
+  - `error.stack`: 🖐: 🖐️ used
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions: 🖐 used
+  - Uncaught exceptions: 🖐: 🖐️ used
   - Heap dump
   - Debugging tools
   - Flame graph
