@@ -4,11 +4,11 @@
   - Model: 🎓 known
   - Modeling
   - Subject domain
-  - Algorithm: 🖐 used
+  - Algorithm: 🖐: 🖐️ used
   - Syntax: 🎓 known
   - Semantics: 🎓 known
   - Abstraction: 🎓 known
-  - Paradigm: 🖐 used
+  - Paradigm: 🖐: 🖐️ used
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
@@ -24,7 +24,7 @@
   - Machine code: 🎓 known
   - Microcode
   - Software engineering: 🎓 known
-  - Decomposition: 🖐 used
+  - Decomposition: 🖐: 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
@@ -32,87 +32,87 @@
   - Don't repeat yourself (DRY): 🎓 known
   - KISS principle: 🎓 known
 - Syntax and concepts
-  - Value: 🖐 used
-  - Identifier: 🖐 used
-  - Variable: 🖐 used
-  - Constant: 🖐 used
-  - Scalar: 🖐 used
-  - Literal: 🖐 used
-  - Expression: 🖐 used
-  - Heap: 🖐 used
-  - Function: 🖐 used
-  - Procedure: 🖐 used
-  - Method: 🖐 used
-  - Class: 🖐 used
+  - Value: 🖐: 🖐️ used
+  - Identifier: 🖐: 🖐️ used
+  - Variable: 🖐: 🖐️ used
+  - Constant: 🖐: 🖐️ used
+  - Scalar: 🖐: 🖐️ used
+  - Literal: 🖐: 🖐️ used
+  - Expression: 🖐: 🖐️ used
+  - Heap: 🖐: 🖐️ used
+  - Function: 🖐: 🖐️ used
+  - Procedure: 🖐: 🖐️ used
+  - Method: 🖐: 🖐️ used
+  - Class: 🖐: 🖐️ used
   - Prototype
-  - Event: 🖐 used
-  - Type: 🖐 used
-  - Flag: 🖐 used
+  - Event: 🖐: 🖐️ used
+  - Type: 🖐: 🖐️ used
+  - Flag: 🖐: 🖐️ used
   - Lexical scope
-  - Code block: 🖐 used
-  - Conditions: 🖐 used
-  - Loops: 🖐 used
-  - Assignment: 🖐 used
-  - Regular expression: 🖐 used
-  - Interface: 🖐 used
-  - Namespaces: 🖐 used
-  - Call stack: 🖐 used
-  - Naming conventions: 🖐 used
-  - Coding conventions: 🖐 used
-  - Camel case: 🖐 used
-  - Snake case: 🖐 used
-  - Kebab case: 🖐 used
+  - Code block: 🖐: 🖐️ used
+  - Conditions: 🖐: 🖐️ used
+  - Loops: 🖐: 🖐️ used
+  - Assignment: 🖐: 🖐️ used
+  - Regular expression: 🖐: 🖐️ used
+  - Interface: 🖐: 🖐️ used
+  - Namespaces: 🖐: 🖐️ used
+  - Call stack: 🖐: 🖐️ used
+  - Naming conventions: 🖐: 🖐️ used
+  - Coding conventions: 🖐: 🖐️ used
+  - Camel case: 🖐: 🖐️ used
+  - Snake case: 🖐: 🖐️ used
+  - Kebab case: 🖐: 🖐️ used
   - Trailing commas: 🎓 known
-  - Return early: 🖐 used
-  - Fail-fast: 🖐 used
+  - Return early: 🖐: 🖐️ used
+  - Fail-fast: 🖐: 🖐️ used
 - Types
-  - Primitive types: 🖐 used
-  - Reference types: 🖐 used
+  - Primitive types: 🖐: 🖐️ used
+  - Reference types: 🖐: 🖐️ used
   - Type systems: 🎓 known
   - Strong typing
   - Weak typing
-  - Duck typing: 🖐 used
-  - Static typing: 🖐 used
-  - Dynamic typing: 🖐 used
+  - Duck typing: 🖐: 🖐️ used
+  - Static typing: 🖐: 🖐️ used
+  - Dynamic typing: 🖐: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
   - Type inference: 🎓 known
-  - Covariance: 🖐 used
-  - Contravariance: 🖐 used
+  - Covariance: 🖐: 🖐️ used
+  - Contravariance: 🖐: 🖐️ used
 - Functions
   - Signature: 🎓 known
-  - Argument: 🖐 used
-  - Parameter: 🖐 used
-  - Pure function: 🖐 used
-  - Lambda expression: 🖐 used
-  - Side effects: 🖐 used
-  - Closure: 🖐 used
-  - Partial application: 🖐 used
-  - Currying: 🖐 used
-  - Higher order: 🖐 used
-  - Recursion: 🖐 used
-  - Tail call optimisation: 🖐 used
-  - Callback: 🖐 used
-  - Listener: 🖐 used
-  - Composition: 🖐 used
-  - Pipe: 🖐 used
-  - Memoize: 🖐 used
-  - Wrapper: 🖐 used
-  - Functor: 🖐 used
-  - Monad: 🖐 used
-  - Monoid: 🖐 used
-  - Generator: 🖐 used
-  - Coroutine: 🖐 used
+  - Argument: 🖐: 🖐️ used
+  - Parameter: 🖐: 🖐️ used
+  - Pure function: 🖐: 🖐️ used
+  - Lambda expression: 🖐: 🖐️ used
+  - Side effects: 🖐: 🖐️ used
+  - Closure: 🖐: 🖐️ used
+  - Partial application: 🖐: 🖐️ used
+  - Currying: 🖐: 🖐️ used
+  - Higher order: 🖐: 🖐️ used
+  - Recursion: 🖐: 🖐️ used
+  - Tail call optimisation: 🖐: 🖐️ used
+  - Callback: 🖐: 🖐️ used
+  - Listener: 🖐: 🖐️ used
+  - Composition: 🖐: 🖐️ used
+  - Pipe: 🖐: 🖐️ used
+  - Memoize: 🖐: 🖐️ used
+  - Wrapper: 🖐: 🖐️ used
+  - Functor: 🖐: 🖐️ used
+  - Monad: 🖐: 🖐️ used
+  - Monoid: 🖐: 🖐️ used
+  - Generator: 🖐: 🖐️ used
+  - Coroutine: 🖐: 🖐️ used
 - Data structures
-  - Array: 🖐 used
-  - Structure: 🖐 used
-  - Record: 🖐 used
-  - Enum: 🖐 used
-  - Instance: 🖐 used
-  - Object: 🖐 used
-  - Collection: 🖐 used
-  - Set: 🖐 used
+  - Array: 🖐: 🖐️ used
+  - Structure: 🖐: 🖐️ used
+  - Record: 🖐: 🖐️ used
+  - Enum: 🖐: 🖐️ used
+  - Instance: 🖐: 🖐️ used
+  - Object: 🖐: 🖐️ used
+  - Collection: 🖐: 🖐️ used
+  - Set: 🖐: 🖐️ used
   - Hash table: 🚀 constructed
   - Linked list: 🚀 constructed
   - Doubly list: 🚀 constructed
@@ -123,14 +123,14 @@
   - Deque: 🎓 known
   - Tree: 🚀 constructed
   - Graph: 🚀 constructed
-  - Iterator: 🖐 used
-  - Mutable state: 🖐 used
-  - Immutable state: 🖐 used
-  - Serialization: 🖐 used
-  - String parsing: 🖐 used
-  - JSON: 🖐 used
+  - Iterator: 🖐: 🖐️ used
+  - Mutable state: 🖐: 🖐️ used
+  - Immutable state: 🖐: 🖐️ used
+  - Serialization: 🖐: 🖐️ used
+  - String parsing: 🖐: 🖐️ used
+  - JSON: 🖐: 🖐️ used
   - JSON5: 🎓 known
-  - YAML: 🖐 used
+  - YAML: 🖐: 🖐️ used
 - Networking
   - DNS: 🎓 known
   - CDN: 🎓 known
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: 🖐 used
+  - Compiler: 🖐: 🖐️ used
   - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation: 🎓 known
   - Transpiler
-  - Linter: 🖐 used
+  - Linter: 🖐: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -157,17 +157,17 @@
   - Register-based VM
   - Stack-based VM
   - Containerization: 🎓 known
-  - Debugger: 🖐 used
+  - Debugger: 🖐: 🖐️ used
   - Tracing
   - Garbage collection: 🎓 known
-  - Refactoring: 🖐 used
-  - Code review: 🖐 used
-  - Exception: 🖐 used
-  - Unittesting: 🖐 used
-  - git: 🖐 used
-  - Github: 🖐 used
-  - Docker: 🖐 used
-  - Kubernetes: 🖐 used
+  - Refactoring: 🖐: 🖐️ used
+  - Code review: 🖐: 🖐️ used
+  - Exception: 🖐: 🖐️ used
+  - Unittesting: 🖐: 🖐️ used
+  - git: 🖐: 🖐️ used
+  - Github: 🖐: 🖐️ used
+  - Docker: 🖐: 🖐️ used
+  - Kubernetes: 🖐: 🖐️ used
   - GCC
   - LLVM
 - Antipatterns
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory: 🎓 known
-  - File system: 🖐 used
-  - Linux: 🖐 used
+  - File system: 🖐: 🖐️ used
+  - Linux: 🖐: 🖐️ used
   - Unix: 🎓 known
   - BSD
-  - MacOS: 🖐 used
-  - Windows: 🖐 used
+  - MacOS: 🖐: 🖐️ used
+  - Windows: 🖐: 🖐️ used
   - Real-time OS: 🎓 known
   - Embedded OS: 👂 heard
 - Standards

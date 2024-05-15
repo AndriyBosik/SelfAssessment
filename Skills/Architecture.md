@@ -1,16 +1,16 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐 used
-  - Components: 🖐 used
-  - Directories: 🖐 used
-  - GRASP: 🖐 used
-  - SOLID: 🖐 used
-  - GoF patterns: 🖐 used
+  - Modularity: 🖐: 🖐️ used
+  - Components: 🖐: 🖐️ used
+  - Directories: 🖐: 🖐️ used
+  - GRASP: 🖐: 🖐️ used
+  - SOLID: 🖐: 🖐️ used
+  - GoF patterns: 🖐: 🖐️ used
   - CQS: 🎓 known
   - Leaking abstractions: 👂 heard
-  - Multiparadigm code: 🖐 used
-  - Contract programming: 🖐 used
+  - Multiparadigm code: 🖐: 🖐️ used
+  - Contract programming: 🖐: 🖐️ used
   - Platform-agnostic: 👂 heard
   - Transport-agnostic
   - Framework-agnostic: 👂 heard
@@ -24,40 +24,40 @@
   - Flexibility: 🎓 known
   - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer: 🖐 used
-  - Domain-specific language (DSL): 🖐 used
+  - Isolation between layer: 🖐: 🖐️ used
+  - Domain-specific language (DSL): 🖐: 🖐️ used
   - System vs applied code
-  - Multilayer approach: 🖐 used
+  - Multilayer approach: 🖐: 🖐️ used
   - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC): 🎓 known
   - Metaprogramming: 👂 heard
-  - Inversion of control (IoC): 🖐 used
-  - Dependency injection (DI): 🖐 used
+  - Inversion of control (IoC): 🖐: 🖐️ used
+  - Dependency injection (DI): 🖐: 🖐️ used
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD): 🎓 known
   - Pub/sub: 🚀 constructed
-  - Message brocker: 🖐 used
+  - Message brocker: 🖐: 🖐️ used
   - Agent
-  - Service locator: 🖐 used
-  - Message Queue (MQ): 🖐 used
+  - Service locator: 🖐: 🖐️ used
+  - Message Queue (MQ): 🖐: 🖐️ used
   - CQRS: 🎓 known
   - Event sourcing
-  - E-R data modeling: 🖐 used
-  - Entity-relationship diagram: 🖐 used
+  - E-R data modeling: 🖐: 🖐️ used
+  - Entity-relationship diagram: 🖐: 🖐️ used
   - IDEF1X
-  - UML: 🖐 used
+  - UML: 🖐: 🖐️ used
   - Work breakdown structure
   - Budget estimation: 🎓 known
   - Distributed systems: 🚀 constructed
   - High-intensive computing
-  - Load balancing: 🖐 used
-  - Gateways: 🖐 used
+  - Load balancing: 🖐: 🖐️ used
+  - Gateways: 🖐: 🖐️ used
   - On-premises: 🎓 known
-  - IaaS: 🖐 used
-  - PaaS: 🖐 used
-  - SaaS: 🖐 used
-  - FaaS clouds: 🖐 used
-  - Serverless: 🖐 used
+  - IaaS: 🖐: 🖐️ used
+  - PaaS: 🖐: 🖐️ used
+  - SaaS: 🖐: 🖐️ used
+  - FaaS clouds: 🖐: 🖐️ used
+  - Serverless: 🖐: 🖐️ used
   - Vendor lock-in: 🎓 known
   - Bus factor
 - Solution architecture
@@ -70,10 +70,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR): 🎓 known
-  - Clouds: 🖐 used
-  - BPMN: 🖐 used
-  - Low-code: 🖐 used
-  - No-code: 🖐 used
+  - Clouds: 🖐: 🖐️ used
+  - BPMN: 🖐: 🖐️ used
+  - Low-code: 🖐: 🖐️ used
+  - No-code: 🖐: 🖐️ used
   - Metric
   - Metric abuse
   - ACID: 🎓 known
@@ -91,7 +91,7 @@
   - Microservices: 🚀 constructed
   - Process choreography: 🚀 constructed
   - Service orchestration: 🚀 constructed
-  - Data warehouse: 🖐 used
+  - Data warehouse: 🖐: 🖐️ used
   - Business Intelligence
   - OLAP: 🎓 known
   - OLTP: 🎓 known

@@ -3,8 +3,8 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET: 👂 heard
   - Stateful and stateless services: 👂 heard
-  - Asynchronous and synchronous programming: 🖐 used
-  - Task-based asynchronous pattern: 🖐 used
+  - Asynchronous and synchronous programming: 🖐: 🖐️ used
+  - Task-based asynchronous pattern: 🖐: 🖐️ used
   - Garbage collection in .NET: 🎓 known
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
@@ -13,23 +13,23 @@
   - .NET assemblies
   - NuGet package management
   - Dependency management in .NET
-  - Dependency Injection in .NET: 🖐 used
-  - Inversion of Control (IoC): 🖐 used
-  - IoC containers in .NET: 🖐 used
+  - Dependency Injection in .NET: 🖐: 🖐️ used
+  - Inversion of Control (IoC): 🖐: 🖐️ used
+  - IoC containers in .NET: 🖐: 🖐️ used
   - Middleware and pipeline configuration
-  - Modular applications: 🖐 used
+  - Modular applications: 🖐: 🖐️ used
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration: 🖐 used
+  - Environment variables and configuration: 🖐: 🖐️ used
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ: 🖐 used
+  - LINQ: 🖐: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -53,15 +53,15 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core: 🖐 used
+  - Entity Framework Core: 🖐: 🖐️ used
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration: 🖐 used
-  - Repository and Unit of Work patterns: 🖐 used
-  - CRUD operations: 🖐 used
+  - Data modeling and migration: 🖐: 🖐️ used
+  - Repository and Unit of Work patterns: 🖐: 🖐️ used
+  - CRUD operations: 🖐: 🖐️ used
 - Error Handling and Debugging
-  - Exception handling in .NET: 🖐 used
-  - Custom error classes: 🖐 used
+  - Exception handling in .NET: 🖐: 🖐️ used
+  - Custom error classes: 🖐: 🖐️ used
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -78,12 +78,12 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals: 🖐 used
-  - Advanced C# features (LINQ, async/await, delegates, events): 🖐 used
-  - Reflection and dynamic programming: 🖐 used
-  - Data types and collections: 🖐 used
-  - Generics and extension methods: 🖐 used
-  - Attributes and annotations: 🖐 used
+  - C# syntax and language fundamentals: 🖐: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐: 🖐️ used
+  - Reflection and dynamic programming: 🖐: 🖐️ used
+  - Data types and collections: 🖐: 🖐️ used
+  - Generics and extension methods: 🖐: 🖐️ used
+  - Attributes and annotations: 🖐: 🖐️ used
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
