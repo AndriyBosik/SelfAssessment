@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming: 🖐 used
-  - Structured programming: 🖐 used
+  - Imperative programming: 🖐: 🖐️ used
+  - Structured programming: 🖐: 🖐️ used
   - Non-structured programming
-  - Functional programming: 🖐 used
+  - Functional programming: 🖐: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming: 🖐 used
+  - Object-oriented programming: 🖐: 🖐️ used
   - Object-based programming
   - Generic programming
-  - Concurrent computing: 🖐 used
-  - Asynchronous programming: 🖐 used
+  - Concurrent computing: 🖐: 🖐️ used
+  - Asynchronous programming: 🖐: 🖐️ used
   - Parallel programming
-  - Reactive programming: 🖐 used
+  - Reactive programming: 🖐: 🖐️ used
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 🖐 used
+  - Multi-paradigm programming: 🖐: 🖐️ used
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🖐 used
-  - Operator `new`: 🖐 used
-  - Static method: 🖐 used
-  - Method: 🖐 used
-  - Async method: 🖐 used
-  - Getters, Setters: 🖐 used
-  - Public fields: 🖐 used
-  - Private fields: 🖐 used
-  - Field declarations: 🖐 used
-  - Inheritance: 🖐 used
-  - Parent class: 🖐 used
-  - Polymorphism: 🖐 used
-  - Abstract class: 🖐 used
-  - Interface: 🖐 used
-  - Encapsulation: 🖐 used
+  - Constructor: 🖐: 🖐️ used
+  - Operator `new`: 🖐: 🖐️ used
+  - Static method: 🖐: 🖐️ used
+  - Method: 🖐: 🖐️ used
+  - Async method: 🖐: 🖐️ used
+  - Getters, Setters: 🖐: 🖐️ used
+  - Public fields: 🖐: 🖐️ used
+  - Private fields: 🖐: 🖐️ used
+  - Field declarations: 🖐: 🖐️ used
+  - Inheritance: 🖐: 🖐️ used
+  - Parent class: 🖐: 🖐️ used
+  - Polymorphism: 🖐: 🖐️ used
+  - Abstract class: 🖐: 🖐️ used
+  - Interface: 🖐: 🖐️ used
+  - Encapsulation: 🖐: 🖐️ used
   - Hidden class
   - Object form
-  - Instance: 🖐 used
+  - Instance: 🖐: 🖐️ used
   - Introspection
-  - Reflection: 🖐 used
+  - Reflection: 🖐: 🖐️ used
   - The diamond problem
 - GRASP
   - Information expert

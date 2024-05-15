@@ -10,41 +10,41 @@
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined`: 🖐 used
-  - `null`: 🖐 used
-  - `this`: 🖐 used
-  - `instanceof`: 🖐 used
-  - `...spread`: 🖐 used
-  - `...rest`: 🖐 used
-  - `typeof`: 🖐 used
-  - Destructuring: 🖐 used
-  - Generators: 🖐 used
-  - Iterators: 🖐 used
+  - `undefined`: 🖐: 🖐️ used
+  - `null`: 🖐: 🖐️ used
+  - `this`: 🖐: 🖐️ used
+  - `instanceof`: 🖐: 🖐️ used
+  - `...spread`: 🖐: 🖐️ used
+  - `...rest`: 🖐: 🖐️ used
+  - `typeof`: 🖐: 🖐️ used
+  - Destructuring: 🖐: 🖐️ used
+  - Generators: 🖐: 🖐️ used
+  - Iterators: 🖐: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining: 🖐 used
+  - Chaining: 🖐: 🖐️ used
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`: 🖐 used
-  - Getters and setters: 🖐 used
+  - `window`: 🖐: 🖐️ used
+  - Getters and setters: 🖐: 🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators: 🖐 used
-  - Logical operators: 🖐 used
+  - Equality operators: 🖐: 🖐️ used
+  - Logical operators: 🖐: 🖐️ used
   - Logical Assignment
-  - Bitwise operators: 🖐 used
-  - Ternary operator: 🖐 used
+  - Bitwise operators: 🖐: 🖐️ used
+  - Ternary operator: 🖐: 🖐️ used
   - `void`
   - `yield`: 👂 heard
-  - `await`: 🖐 used
+  - `await`: 🖐: 🖐️ used
   - Template literal
   - Strict mode: 👂 heard
   - Hoisting
   - `delete`
-  - `in`: 🖐 used
+  - `in`: 🖐: 🖐️ used
   - `super`
   - `eval`
   - `static`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🖐 used
-  - `while`: 🖐 used
-  - `do..while`: 🖐 used
-  - `for`: 🖐 used
-  - `for..in`: 🖐 used
-  - `for..of`: 🖐 used
-  - `for await`: 🖐 used
-  - `throw`: 🖐 used
-  - `break`: 🖐 used
-  - `continue`: 🖐 used
-  - `import`: 🖐 used
-  - `export`: 🖐 used
-  - `label`: 🖐 used
-  - `try..catch`: 🖐 used
-  - `switch`: 🖐 used
+  - `if`: 🖐: 🖐️ used
+  - `while`: 🖐: 🖐️ used
+  - `do..while`: 🖐: 🖐️ used
+  - `for`: 🖐: 🖐️ used
+  - `for..in`: 🖐: 🖐️ used
+  - `for..of`: 🖐: 🖐️ used
+  - `for await`: 🖐: 🖐️ used
+  - `throw`: 🖐: 🖐️ used
+  - `break`: 🖐: 🖐️ used
+  - `continue`: 🖐: 🖐️ used
+  - `import`: 🖐: 🖐️ used
+  - `export`: 🖐: 🖐️ used
+  - `label`: 🖐: 🖐️ used
+  - `try..catch`: 🖐: 🖐️ used
+  - `switch`: 🖐: 🖐️ used
   - `class`
   - `extends`
-  - `with`: 🖐 used
+  - `with`: 🖐: 🖐️ used
   - `new`
 - Functions
-  - Arrow function: 🖐 used
-  - Async function: 🖐 used
-  - Function declaration: 🖐 used
-  - Function expression: 🖐 used
+  - Arrow function: 🖐: 🖐️ used
+  - Async function: 🖐: 🖐️ used
+  - Function declaration: 🖐: 🖐️ used
+  - Function expression: 🖐: 🖐️ used
   - Default parameters
   - Functional object: 🎓 known
   - `Function.prototype.call`
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`
-  - `return`: 🖐 used
+  - `return`: 🖐: 🖐️ used
 - Data structures
-  - `Array`: 🖐 used
-  - `Map`: 🖐 used
-  - `Set`: 🖐 used
+  - `Array`: 🖐: 🖐️ used
+  - `Map`: 🖐: 🖐️ used
+  - `Set`: 🖐: 🖐️ used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -100,8 +100,8 @@
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
-  - `RegExp`: 🖐 used
-  - `Date`: 🖐 used
+  - `RegExp`: 🖐: 🖐️ used
+  - `Date`: 🖐: 🖐️ used
   - `Math`
   - `Reflect`
   - `Error`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js: 🖐 used
-  - npm: 🖐 used
+  - Node.js: 🖐: 🖐️ used
+  - npm: 🖐: 🖐️ used
   - prettier: 👂 heard
   - MDN
   - TC39

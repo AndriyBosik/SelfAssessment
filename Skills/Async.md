@@ -16,28 +16,28 @@
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 👂 heard
-  - Concurrent programming: 🖐 used
+  - Concurrent programming: 🖐: 🖐️ used
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 🖐 used
-  - Process: 🖐 used
+  - Thread: 🖐: 🖐️ used
+  - Process: 🖐: 🖐️ used
 - Async contracts
-  - Callbacks: 🖐 used
+  - Callbacks: 🖐: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise: 🖐 used
-  - Async/await: 🖐 used
-  - Future: 🖐 used
+  - Promise: 🖐: 🖐️ used
+  - Async/await: 🖐: 🖐️ used
+  - Future: 🖐: 🖐️ used
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 🖐 used
-  - Coroutine: 🖐 used
+  - Event: 🖐: 🖐️ used
+  - Coroutine: 🖐: 🖐️ used
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 🎓 known
-  - Chain of responsibility: 🖐 used
+  - Chain of responsibility: 🖐: 🖐️ used
   - Middleware: 👂 heard
   - Locks: 🎓 known
 - Async adapters and utils
@@ -52,7 +52,7 @@
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
-  - Async Pool 
+  - Async Pool
   - Async Queue
   - Async Collector
   - Semaphore: 🎓 known
@@ -82,8 +82,8 @@
   - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
-  - Promise.any 
-  - Web Locks API 
+  - Promise.any
+  - Web Locks API
   - IPC
   - Channel API
   - Revealing constructor

@@ -4,11 +4,11 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🖐 used
+  - Algorithm: 🖐: 🖐️ used
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm: 🖐 used
+  - Paradigm: 🖐: 🖐️ used
   - Programm
   - Programming paradigm
   - Programming language
@@ -24,7 +24,7 @@
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition: 🖐 used
+  - Decomposition: 🖐: 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 🖐 used
-  - Identifier: 🖐 used
-  - Variable: 🖐 used
-  - Constant: 🖐 used
-  - Scalar: 🖐 used
-  - Literal: 🖐 used
-  - Expression: 🖐 used
+  - Value: 🖐: 🖐️ used
+  - Identifier: 🖐: 🖐️ used
+  - Variable: 🖐: 🖐️ used
+  - Constant: 🖐: 🖐️ used
+  - Scalar: 🖐: 🖐️ used
+  - Literal: 🖐: 🖐️ used
+  - Expression: 🖐: 🖐️ used
   - Heap
-  - Function: 🖐 used
-  - Procedure: 🖐 used
-  - Method: 🖐 used
-  - Class: 🖐 used
+  - Function: 🖐: 🖐️ used
+  - Procedure: 🖐: 🖐️ used
+  - Method: 🖐: 🖐️ used
+  - Class: 🖐: 🖐️ used
   - Prototype
-  - Event: 🖐 used
-  - Type: 🖐 used
+  - Event: 🖐: 🖐️ used
+  - Type: 🖐: 🖐️ used
   - Flag
   - Lexical scope
-  - Code block: 🖐 used
-  - Conditions: 🖐 used
-  - Loops: 🖐 used
-  - Assignment: 🖐 used
-  - Regular expression: 🖐 used
-  - Interface: 🖐 used
+  - Code block: 🖐: 🖐️ used
+  - Conditions: 🖐: 🖐️ used
+  - Loops: 🖐: 🖐️ used
+  - Assignment: 🖐: 🖐️ used
+  - Regular expression: 🖐: 🖐️ used
+  - Interface: 🖐: 🖐️ used
   - Namespaces
-  - Call stack: 🖐 used
+  - Call stack: 🖐: 🖐️ used
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early: 🖐 used
+  - Return early: 🖐: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types: 🖐 used
-  - Reference types: 🖐 used
+  - Primitive types: 🖐: 🖐️ used
+  - Reference types: 🖐: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,37 +82,37 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument: 🖐 used
-  - Parameter: 🖐 used
-  - Pure function: 🖐 used
-  - Lambda expression: 🖐 used
-  - Side effects: 🖐 used
-  - Closure: 🖐 used
-  - Partial application: 🖐 used
-  - Currying: 🖐 used
-  - Higher order: 🖐 used
-  - Recursion: 🖐 used
+  - Argument: 🖐: 🖐️ used
+  - Parameter: 🖐: 🖐️ used
+  - Pure function: 🖐: 🖐️ used
+  - Lambda expression: 🖐: 🖐️ used
+  - Side effects: 🖐: 🖐️ used
+  - Closure: 🖐: 🖐️ used
+  - Partial application: 🖐: 🖐️ used
+  - Currying: 🖐: 🖐️ used
+  - Higher order: 🖐: 🖐️ used
+  - Recursion: 🖐: 🖐️ used
   - Tail call optimisation
-  - Callback: 🖐 used
-  - Listener: 🖐 used
-  - Composition: 🖐 used
-  - Pipe: 🖐 used
+  - Callback: 🖐: 🖐️ used
+  - Listener: 🖐: 🖐️ used
+  - Composition: 🖐: 🖐️ used
+  - Pipe: 🖐: 🖐️ used
   - Memoize
   - Wrapper
-  - Functor: 🖐 used
-  - Monad: 🖐 used
-  - Monoid: 🖐 used
+  - Functor: 🖐: 🖐️ used
+  - Monad: 🖐: 🖐️ used
+  - Monoid: 🖐: 🖐️ used
   - Generator
-  - Coroutine: 🖐 used
+  - Coroutine: 🖐: 🖐️ used
 - Data structures
-  - Array: 🖐 used
-  - Structure: 🖐 used
-  - Record: 🖐 used
-  - Enum: 🖐 used
-  - Instance: 🖐 used
-  - Object: 🖐 used
-  - Collection: 🖐 used
-  - Set: 🖐 used
+  - Array: 🖐: 🖐️ used
+  - Structure: 🖐: 🖐️ used
+  - Record: 🖐: 🖐️ used
+  - Enum: 🖐: 🖐️ used
+  - Instance: 🖐: 🖐️ used
+  - Object: 🖐: 🖐️ used
+  - Collection: 🖐: 🖐️ used
+  - Set: 🖐: 🖐️ used
   - Hash table: 🚀 constructed
   - Linked list: 🚀 constructed
   - Doubly list: 🚀 constructed
@@ -123,11 +123,11 @@
   - Deque: 🎓 known
   - Tree: 🚀 constructed
   - Graph: 🚀 constructed
-  - Iterator: 🖐 used
-  - Mutable state: 🖐 used
-  - Immutable state: 🖐 used
-  - Serialization: 🖐 used
-  - String parsing: 🖐 used
+  - Iterator: 🖐: 🖐️ used
+  - Mutable state: 🖐: 🖐️ used
+  - Immutable state: 🖐: 🖐️ used
+  - Serialization: 🖐: 🖐️ used
+  - String parsing: 🖐: 🖐️ used
   - JSON
   - JSON5
   - YAML
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: 🖐 used
+  - Compiler: 🖐: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter: 🖐 used
+  - Linter: 🖐: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: 🖐 used
+  - Debugger: 🖐: 🖐️ used
   - Tracing
   - Garbage collection: 🎓 known
-  - Refactoring: 🖐 used
-  - Code review: 🖐 used
-  - Exception: 🖐 used
+  - Refactoring: 🖐: 🖐️ used
+  - Code review: 🖐: 🖐️ used
+  - Exception: 🖐: 🖐️ used
   - Unittesting
-  - git: 🖐 used
-  - Github: 🖐 used
+  - git: 🖐: 🖐️ used
+  - Github: 🖐: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
